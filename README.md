@@ -1,6 +1,6 @@
 # AI_Class ( 2023.04.17 ~ 2023.10.23 ) 
 
-Hi, I really hope to be one of the fashinon_AI developers. 
+Hi, I really hope to be one of the fashion_AI developers. 
 
 Let's be drenched in these codes together. :)
 
