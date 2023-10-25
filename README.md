@@ -4,9 +4,13 @@ Hi, I really hope to be one of the AI developers.
 
 Let's be drenched in these codes with me! :)
 
-1. Object Detection Class
-2. Image Class
+1. Object Detection Study
+2. Image Study
 3. NLP
-4. WebCrawling Class
-5. etc. Class
-6. Projects
+4. WebCrawling Study
+5. etc. Study
+   05_01. Autogluon_231023.ipynb
+          Data: Kaggle Credit Score, Model: Autogluon in python colab, Purpose: Classification 
+   05_02.
+          Data: Kaggle Cat or Dog, Model: CNN in PyTorch Lib, Purpose: Classification
+7. Projects
