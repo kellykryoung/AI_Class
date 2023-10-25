@@ -2,7 +2,7 @@
 
 Hi, I really hope to be one of the AI developers. 
 
-Let's be drenched in these codes with me! :)
+Let's be drenched in these codes together. :)
 
 1. Object Detection Study
 2. Image Study
